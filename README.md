@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Masahiro Fukuyama
-- 👀 I’m interested in Apex!
-- 🌱 I’m currently learning React and Laravel.
+- 👀 I’m interested in Vue!
+- 🌱 I’m currently learning Vue and Laravel.
 
 <!---
 masa0113/masa0113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
