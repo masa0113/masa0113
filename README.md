@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Masahiro Fukuyama
-- 👀 I’m interested in Vue　and React!
+- 👀 I’m interested in Vue and React!
 - 🌱 I’m currently learning Vue and React and Laravel.
 
 <!---
